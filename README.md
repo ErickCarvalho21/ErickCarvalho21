@@ -18,8 +18,8 @@ Desenvolvo aplicações backend com Java e Spring, com interesse em APIs, persis
 
 ## Repositórios em destaque
 
-- **[Gestão Comercial](https://github.com/ErickCarvalho21/gestao-comercial)** — em desenvolvimento; documentação em preparação.
-- **[Agendador de Tarefas](https://github.com/ErickCarvalho21/agendador-tarefas)** — em desenvolvimento; documentação em preparação.
+- **[Gestão Comercial](https://github.com/ErickCarvalho21/gestao-comercial)** — projeto de sistema para produtos, estoque, vendas e caixa.
+- **[Agendador de Tarefas](https://github.com/ErickCarvalho21/agendador-tarefas)** — API para criar, consultar e atualizar tarefas agendadas.
 
 [Ver todos os repositórios](https://github.com/ErickCarvalho21?tab=repositories)
 
