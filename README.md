@@ -23,12 +23,6 @@ Desenvolvo aplicações backend com Java e Spring, com interesse em APIs, persis
 
 [Ver todos os repositórios](https://github.com/ErickCarvalho21?tab=repositories)
 
-## Atividade no GitHub
-
-![Estatísticas de commits, pull requests, contribuições e estrelas no GitHub](https://github-readme-stats.vercel.app/api?username=ErickCarvalho21&show_icons=true&hide_rank=true&hide=issues&locale=pt-br&bg_color=0B1F33&title_color=6DB33F&text_color=FFFFFF&icon_color=6DB33F&hide_border=true)
-
-![Cobrinha animada sobre o gráfico de contribuições de outubro de 2026](assets/cobrinha.svg)
-
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/erick-carvalho-18561b349/)
