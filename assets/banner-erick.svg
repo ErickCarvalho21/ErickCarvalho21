@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="210" viewBox="0 0 1100 210" role="img" aria-labelledby="title desc">
+  <title id="title">Erick Carvalho — Java Backend</title>
+  <desc id="desc">Banner profissional azul-escuro com detalhe verde Spring.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071827"/>
+      <stop offset="1" stop-color="#12314a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1100" height="210" rx="18" fill="url(#background)"/>
+  <rect x="46" y="43" width="124" height="124" rx="20" fill="#123c4a" stroke="#6db33f" stroke-width="2"/>
+  <text x="108" y="126" fill="#eaf6e3" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" text-anchor="middle">EC</text>
+  <rect x="208" y="48" width="4" height="114" rx="2" fill="#6db33f"/>
+  <text x="240" y="82" fill="#83ce58" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">JAVA BACKEND</text>
+  <text x="240" y="133" fill="#f4f8fb" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700">Erick Carvalho</text>
+  <text x="242" y="163" fill="#b7cad9" font-family="Arial, Helvetica, sans-serif" font-size="18">Spring Boot  /  APIs  /  Dados  /  Testes</text>
+  <path d="M921 63h127M921 89h91M921 115h113M921 141h74" fill="none" stroke="#6db33f" stroke-width="5" stroke-linecap="round" opacity=".45"/>
+</svg>
