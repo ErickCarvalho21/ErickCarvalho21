@@ -8,6 +8,10 @@ Estudante de Engenharia de Software no iCEV. Desenvolvo aplicações backend com
 
 ## Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&amp;theme=dark" alt="Ícones de Java, Spring, PostgreSQL, MongoDB, Docker e Git" width="320" />
+</p>
+
 | Área | Tecnologias |
 | --- | --- |
 | Backend | Java, Spring Boot, Spring Data JPA, Hibernate |
