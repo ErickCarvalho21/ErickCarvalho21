@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-erick.svg" alt="Banner azul-escuro e verde com as iniciais EC e a frase Java Backend" width="100%" />
+  <img src="assets/banner-erick.svg" alt="Banner azul e preto com o nome Erick Carvalho e a frase Desenvolvedor Java Backend" width="100%" />
 </p>
 
 # Erick Carvalho | Desenvolvedor Java Backend
@@ -7,10 +7,6 @@
 Estudante de Engenharia de Software no iCEV. Desenvolvo aplicações backend com Java e Spring, com foco em APIs, persistência de dados, segurança e testes.
 
 ## Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&amp;theme=dark" alt="Java, Spring, PostgreSQL, MongoDB, Docker e Git" />
-</p>
 
 | Área | Tecnologias |
 | --- | --- |
