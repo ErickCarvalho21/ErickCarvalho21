@@ -1,28 +1,34 @@
+<p align="center">
+  <img src="assets/banner-erick.svg" alt="Banner azul-escuro e verde com as iniciais EC e a frase Java Backend" width="100%" />
+</p>
+
 # Erick Carvalho | Desenvolvedor Java Backend
 
-Desenvolvo aplicações backend com Java e Spring, com interesse em APIs, persistência de dados e testes. Sou estudante de Engenharia de Software no iCEV.
+Estudante de Engenharia de Software no iCEV. Desenvolvo aplicações backend com Java e Spring, com foco em APIs, persistência de dados, segurança e testes.
 
 ## Tecnologias
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&amp;theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&amp;theme=light" />
-  <img alt="Java, Spring, PostgreSQL, MongoDB, Docker e Git" src="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&amp;theme=light" />
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=java%2Cspring%2Cpostgres%2Cmongodb%2Cdocker%2Cgit&amp;theme=dark" alt="Java, Spring, PostgreSQL, MongoDB, Docker e Git" />
+</p>
 
-- **Backend:** Java, Spring Boot, Spring Data JPA e Hibernate
-- **Bancos de dados:** PostgreSQL e MongoDB
-- **Segurança:** Spring Security e JWT
-- **Testes:** JUnit e Mockito
-- **Ferramentas:** Docker, Maven e Git
+| Área | Tecnologias |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring Data JPA, Hibernate |
+| Dados | PostgreSQL, MongoDB |
+| Segurança | Spring Security, JWT |
+| Testes | JUnit, Mockito |
+| Ferramentas | Docker, Maven, Git |
 
-## Repositórios em destaque
+## Projetos
 
-- **[Gestão Comercial](https://github.com/ErickCarvalho21/gestao-comercial)** — projeto de sistema para produtos, estoque, vendas e caixa.
-- **[Agendador de Tarefas](https://github.com/ErickCarvalho21/agendador-tarefas)** — API para criar, consultar e atualizar tarefas agendadas.
+| Projeto | Sobre |
+| --- | --- |
+| [Gestão Comercial](https://github.com/ErickCarvalho21/gestao-comercial) | Projeto de sistema para produtos, estoque, vendas e caixa. |
+| [Agendador de Tarefas](https://github.com/ErickCarvalho21/agendador-tarefas) | API para criar, consultar e atualizar tarefas agendadas. |
 
-[Ver todos os repositórios](https://github.com/ErickCarvalho21?tab=repositories)
+O estágio de cada projeto está descrito no README do respectivo repositório.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/erick-carvalho-18561b349/)
+[LinkedIn](https://www.linkedin.com/in/erick-carvalho-18561b349/) · [Repositórios](https://github.com/ErickCarvalho21?tab=repositories)
